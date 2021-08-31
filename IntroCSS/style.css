@@ -1,0 +1,30 @@
+/*Asterisco nos sirve para hacer los reset del nivel mas bajo*/
+* {
+    background-color: darkred;
+}
+/* estilando usando la equita h1*/
+h1 {
+    color: darkorange;
+    font-size: 50px;
+    background-color:powderblue;
+}
+div {
+    background-color: darkslategray;
+    margin-top: 5%;
+}
+.divDistinto{
+    background-color: turquoise;
+}
+#Lorem10{
+    background-color: whitesmoke;    
+}
+
+.texto {
+    background-color: violet;
+}
+
+ul li { 
+    list-style-type: square;
+    background-color: tomato;
+
+}
